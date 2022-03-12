@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
-</p>
 
 
 <!-- <h3><i>Interested on my top projects? <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /></i></h3>
