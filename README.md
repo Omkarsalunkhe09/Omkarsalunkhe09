@@ -2,7 +2,14 @@
 <p align="center">
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Front+End+Developer;Back+End+Developer&center=true&width=500&height=50"></a>
 </p>
-<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
+<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+<img
+                src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"
+                alt="pic"
+                width="100"
+                height="100"
+              />
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omkarsalunkhe09&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
