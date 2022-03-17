@@ -9,8 +9,7 @@
                 src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"
                 alt="pic"
                 width="50"
-                
-              />
+         /></img>
   </a>
 </p>
 <h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
