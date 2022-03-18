@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Omkar Salunkhe   <img
                 src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"
                 alt="pic"
