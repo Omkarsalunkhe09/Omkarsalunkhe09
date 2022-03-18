@@ -51,7 +51,7 @@
 
 <p>
 <img  src="https://github-readme-stats.vercel.app/api?username=Omkarsalunkhe09&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=PriontoAbdullah&Omkarsalunkhe09=radical" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarsalunkhe09&theme=radical" width="45%" >
 </p>
 
 ![](https://i.imgur.com/IuzIC2j.png)
