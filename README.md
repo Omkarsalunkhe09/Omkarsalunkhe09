@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://omkar-salunkhe.netlify.app/)**
 
-- 📫 How to reach me **prashantkrmathur@gmail.com**
+- 📫 How to reach me **ossalunkhe09@gmail.com**
 
 - ⚡ Fun fact **I play video game and Watch movies.**
 
