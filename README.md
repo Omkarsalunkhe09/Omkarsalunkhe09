@@ -10,6 +10,20 @@
 </p> -->
 <h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
+## 🙋‍♂️ About Me
+
+<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+
+- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://omkar-salunkhe.netlify.app/)**
+
+- 📫 How to reach me **prashantkrmathur@gmail.com**
+
+- ⚡ Fun fact **I play video game and Watch movies.**
+
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omkarsalunkhe09&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
