@@ -69,6 +69,10 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarsalunkhe09&theme=radical" width="45%" >
 </p>
 
+<p align="center">
+<img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+</p>
+
 ![](https://i.imgur.com/IuzIC2j.png)
 
 
